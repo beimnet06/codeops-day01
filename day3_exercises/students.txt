@@ -1,0 +1,6 @@
+Student Name,Score
+Beimnet Tariku,95
+Abel Kebede,85
+Sara Hailu,78
+Dawit Mekonnen,92
+Meron Taddesse,88
